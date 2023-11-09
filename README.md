@@ -7,7 +7,6 @@
   - [Acceptance Criteria](#acceptance-criteria)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
 - [Author](#author)
@@ -59,8 +58,6 @@
 
 - Solution URL: (https://github.com/YTasheva/Bootstrap-Portfolio)
 - Live Site URL:
-   
-## My process
 
 ### Build With
 
