@@ -67,7 +67,7 @@
 ### What I Learned
 
 - Code an HTML/CSS webpage using Bootstrap components.
-- UX and User Funnels
+- UX, UI and User Funnels
 - The concept of content delivery networks (CDNs), specifically Bootstrap.
 - How to use Bootstrap's built-in column media queries to control layouts.
    
