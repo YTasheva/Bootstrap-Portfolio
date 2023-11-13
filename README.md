@@ -52,7 +52,9 @@
 - Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ### Screenshot
-Portfolio1.png
+<img width="1497" alt="Screenshot Bootstrap1" src="https://github.com/YTasheva/Bootstrap-Portfolio/assets/148258557/d91fa228-ec08-45e2-99f3-5654b106c398">
+<img width="1496" alt="Screenshot Bootstrap2" src="https://github.com/YTasheva/Bootstrap-Portfolio/assets/148258557/b59ad96f-3bcc-4900-b28c-2fe234b43c11">
+<img width="1486" alt="Screenshot Bootstrap3" src="https://github.com/YTasheva/Bootstrap-Portfolio/assets/148258557/067fda6d-f378-40a9-bdb4-2520131cc727">
 
 ### Links
 
