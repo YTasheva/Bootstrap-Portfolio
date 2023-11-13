@@ -52,7 +52,7 @@
 - Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ### Screenshot
-
+Portfolio1.png
 
 ### Links
 
