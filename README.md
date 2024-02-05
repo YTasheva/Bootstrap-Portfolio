@@ -8,6 +8,8 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built With](#built-with)
+- [Installation](#installation)
+- [Licence](#licence)
   - [What I Learned](#what-i-learned)
 - [Author](#author)
 
@@ -61,10 +63,22 @@
 - Solution URL: (https://github.com/YTasheva/Bootstrap-Portfolio)
 - Live Site URL: (https://ytasheva.github.io/Bootstrap-Portfolio/)
   
-### Build With
+### Built With
 
 - Bootstrap-5
 - HTML/CSS
+
+## Installation
+
+* Download or clone the repository.
+
+* Open the `.HTML` file through your web browser to view.
+
+* Use Visual Studio Code or similar source-code editor to run the code.
+
+## Licence
+
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a>
 
 ### What I Learned
 
